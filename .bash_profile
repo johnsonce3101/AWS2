@@ -1,0 +1,1 @@
+alias nameOfProject='ssh -i "~/.ssh/myEC2Key.pem"ubuntu@ec2-3-143-236-115.us-east-2.compute.amazonaws.com
